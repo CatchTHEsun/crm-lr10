@@ -9,6 +9,8 @@
 
 <p align="center">
 New api based on Laravel.
+v1 - few records.
+v2 - all records.
 </p>
 ## About Laravel
 
